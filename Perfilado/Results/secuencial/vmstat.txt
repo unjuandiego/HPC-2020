@@ -1,0 +1,8 @@
+procs -----------memoria---------- ---swap-- -----io---- -sistema-- ------cpu-----
+ r  b   swpd  libre búfer caché   si   so    bi    bo   in   cs us sy id wa st
+ 1  1  37504 1367900 245884 1097740    6   40    80   109  317  148 13  3 81  3  0
+
+
+procs -----------memoria---------- ---swap-- -----io---- -sistema-- ------cpu-----
+ r  b   swpd  libre búfer caché   si   so    bi    bo   in   cs us sy id wa st
+ 1  0  37504 1322696 246356 1100808    6   40    79   108  316  150 13  3 81  3  0

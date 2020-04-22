@@ -1,0 +1,9 @@
+Linux 5.3.0-40-generic (juandiegoa-X411UA) 	22/04/20 	_x86_64_	(8 CPU)
+
+17:15:17        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+17:15:20           lo      0,00      0,00      0,00      0,00      0,00      0,00      0,00      0,00
+17:15:20       wlp2s0     14,00     12,00      2,10      2,23      0,00      0,00      0,00      0,00
+
+17:15:20        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+17:15:23           lo      0,00      0,00      0,00      0,00      0,00      0,00      0,00      0,00
+17:15:23       wlp2s0      8,33      9,67      1,11      1,13      0,00      0,00      0,00      0,00
